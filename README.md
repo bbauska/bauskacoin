@@ -1,7 +1,8 @@
-Bitcoin Core integration/staging tree
-=====================================
+Bauska fork of Bitcoin Core integration/staging tree
+====================================================
 
 https://bitcoincore.org
+https://github.com/bbauska/bitcoin/edit/master/README.md
 
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
